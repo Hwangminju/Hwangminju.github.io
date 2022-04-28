@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdev_faker"]=self["webpackChunkdev_faker"]||[]).push([[468],{8468:function(e,n,r){r.r(n),r.d(n,{default:function(){return s}});var t=r(3396);function a(e,n,r,a,u,c){const f=(0,t.up)("v-data-table");return(0,t.wg)(),(0,t.iD)("div",null,[(0,t.Wm)(f)])}var u={name:"ProjectList"},c=r(89);const f=(0,c.Z)(u,[["render",a]]);var s=f}}]);
-//# sourceMappingURL=468.a0804282.js.map
